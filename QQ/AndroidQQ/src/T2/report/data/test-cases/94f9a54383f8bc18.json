@@ -1,0 +1,83 @@
+{
+  "uid" : "94f9a54383f8bc18",
+  "name" : "test_lo",
+  "fullName" : "test_ta.Testta#test_lo",
+  "historyId" : "e2bb9a8da6ecbf22e3922a781a6df39c",
+  "time" : {
+    "start" : 1566120168097,
+    "stop" : 1566120178812,
+    "duration" : 10715
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "el",
+    "time" : {
+      "start" : 1566120168080,
+      "stop" : 1566120168096,
+      "duration" : 16
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "dr",
+    "time" : {
+      "start" : 1566120157425,
+      "stop" : 1566120168080,
+      "duration" : 10655
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_ta"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testta"
+  }, {
+    "name" : "host",
+    "value" : "Caizhanyang"
+  }, {
+    "name" : "thread",
+    "value" : "7640-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_ta"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "94f9a54383f8bc18.json",
+  "parameterValues" : [ ]
+}

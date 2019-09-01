@@ -1,0 +1,59 @@
+{
+  "total" : 15,
+  "items" : [ {
+    "uid" : "58dca899f32fadbf83ead1a6d5934078",
+    "name" : "模块三",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "571f4e4aca2d0bcf8ef43920bb3b955b",
+    "name" : "模块二",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "5162ae1ad2f1103ff6d48348050d4a2d",
+    "name" : "模块一",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "92d5149a20b9156be3d230c521e3e4e7",
+    "name" : "模块四",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "023283d5bf38c1bccfdfcafe2dd0afe2",
+    "name" : "test_module_01",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

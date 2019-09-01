@@ -1,0 +1,105 @@
+{
+  "uid" : "bcb3ea49668ec1b3",
+  "name" : "test_login[484083157-0.00.0]",
+  "fullName" : "test_ta.Testta#test_login[484083157-0.00.0]",
+  "historyId" : "463ec6080ede8492eddc9cba7a1fdff2",
+  "time" : {
+    "start" : 1566120813491,
+    "stop" : 1566120841869,
+    "duration" : 28378
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "el",
+    "time" : {
+      "start" : 1566120694848,
+      "stop" : 1566120694858,
+      "duration" : 10
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "dr",
+    "time" : {
+      "start" : 1566120684354,
+      "stop" : 1566120694848,
+      "duration" : 10494
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f7d77dc0379b160",
+      "name" : "log",
+      "source" : "f7d77dc0379b160.txt",
+      "type" : "text/plain",
+      "size" : 79
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_ta"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testta"
+  }, {
+    "name" : "host",
+    "value" : "Caizhanyang"
+  }, {
+    "name" : "thread",
+    "value" : "15088-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_ta"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "ma",
+    "value" : "'0.00.0'"
+  }, {
+    "name" : "mi",
+    "value" : "'484083157'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bcb3ea49668ec1b3.json",
+  "parameterValues" : [ "'0.00.0'", "'484083157'" ]
+}

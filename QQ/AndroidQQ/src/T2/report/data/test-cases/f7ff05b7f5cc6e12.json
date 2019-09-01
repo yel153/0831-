@@ -1,0 +1,135 @@
+{
+  "uid" : "f7ff05b7f5cc6e12",
+  "name" : "test_lo",
+  "fullName" : "test_ta.Testta#test_lo",
+  "historyId" : "e2bb9a8da6ecbf22e3922a781a6df39c",
+  "time" : {
+    "start" : 1566121313074,
+    "stop" : 1566121321814,
+    "duration" : 8740
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "el",
+    "time" : {
+      "start" : 1566121313063,
+      "stop" : 1566121313073,
+      "duration" : 10
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "dr",
+    "time" : {
+      "start" : 1566121302898,
+      "stop" : 1566121313063,
+      "duration" : 10165
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_ta"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testta"
+  }, {
+    "name" : "host",
+    "value" : "Caizhanyang"
+  }, {
+    "name" : "thread",
+    "value" : "15748-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_ta"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b58fd06967768e43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566120694859,
+        "stop" : 1566120703573,
+        "duration" : 8714
+      }
+    }, {
+      "uid" : "94f9a54383f8bc18",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566120168097,
+        "stop" : 1566120178812,
+        "duration" : 10715
+      }
+    }, {
+      "uid" : "c5b5ed368f0be709",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566119758416,
+        "stop" : 1566119769118,
+        "duration" : 10702
+      }
+    }, {
+      "uid" : "46fa8c9f348f53c6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566119626754,
+        "stop" : 1566119637516,
+        "duration" : 10762
+      }
+    }, {
+      "uid" : "c39ef7ac4355cba7",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1566119569867,
+        "stop" : 1566119576026,
+        "duration" : 6159
+      }
+    }, {
+      "uid" : "aaf8150fee2274b5",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1566119460633,
+        "stop" : 1566119466692,
+        "duration" : 6059
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7ff05b7f5cc6e12.json",
+  "parameterValues" : [ ]
+}

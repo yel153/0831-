@@ -1,0 +1,60 @@
+---
+
+weixin: com.vy.visvacn:id/rl_weichat
+
+qqlogin: com.vy.visvacn:id/rl_qq
+
+phone: com.vy.visvacn:id/rl_phone
+phonebtn: com.vy.visvacn:id/authsdk_login_view
+phonetuichu: android.widget.ImageButton  #class
+phoneweixin: com.vy.visvacn:id/linear_weichat
+phoneqq: com.vy.visvacn:id/linear_qq
+phoneweibo: com.vy.visvacn:id/linear_weibo
+phoneother: com.vy.visvacn:id/linear_other_phone
+phoneiptmima: com.vy.visvacn:id/et_vc
+
+zuce: com.vy.visvacn:id/rl_register
+zucetuichu: com.vy.visvacn:id/rl_left
+zuceweixin: com.vy.visvacn:id/linear_weichat
+zuceqq: com.vy.visvacn:id/linear_qq
+zuceweibo: com.vy.visvacn:id/linear_weibo
+zucebtn: com.vy.visvacn:id/tv_done
+zuceiptphone: com.vy.visvacn:id/et_phone
+zuceiptmima: com.vy.visvacn:id/et_passwrd  #6到16为密码
+
+
+
+qqlo: com.vy.visvacn:id/linear_qq
+
+shouye: com.vy.visvacn:id/v0
+shouyesan: com.vy.visvacn:id/title_container  #分享，圈子，合拍
+shouyesan3: android.widget.FrameLayout  #class 三个
+ciq: com.vy.visvacn:id/fl_circle
+syggao: com.vy.visvacn:id/ll_interest_container
+syggao3: android.widget.RelativeLayout #class 三个广告
+sycontent: com.vy.visvacn:id/tv_content  #围观内容
+syweiguanhd: com.vy.visvacn:id/fl_answer #围观回答
+syweiguanfb: com.vy.visvacn:id/tv_time
+#syweiguandy: com.vy.visvacn:id/tv_content
+syneirong: com.vy.visvacn:id/rcv   #正常文章
+syneirongpl: com.vy.visvacn:id/fl_comment #评论
+syneirongpl1: com.vy.visvacn:id/fl_bottom_comment #写东西
+syneirongfs: com.vy.visvacn:id/tv_send # 发出
+syneirongfstu: com.vy.visvacn:id/iv_img_lib # 评论家图片
+syneirongfsbq: com.vy.visvacn:id/gv_emotion #评论加表情
+syneirongfsbq1: android.widget.FrameLayout # class 表情多个
+syneirongwd: com.vy.visvacn:id/tv_commit #自己评论内容
+syneirong1: android.widget.FrameLayout #class 三个
+sydiyidt: android.widget.FrameLayout #class 一个 syneirong
+
+
+
+
+
+
+
+xiaoxi: com.vy.visvacn:id/v1
+xiedongtai: com.vy.visvacn:id/btn_push
+shoucang: com.vy.visvacn:id/v2
+wode: com.vy.visvacn:id/v3
+

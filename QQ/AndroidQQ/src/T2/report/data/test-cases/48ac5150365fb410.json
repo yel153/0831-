@@ -1,0 +1,186 @@
+{
+  "uid" : "48ac5150365fb410",
+  "name" : "test_login[  -0.00.0]",
+  "fullName" : "test_ta.Testta#test_login[  -0.00.0]",
+  "historyId" : "d4b5f2950c45b32ce9090724aa69dd36",
+  "time" : {
+    "start" : 1566121375166,
+    "stop" : 1566121408638,
+    "duration" : 33472
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "el",
+    "time" : {
+      "start" : 1566121313063,
+      "stop" : 1566121313073,
+      "duration" : 10
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "dr",
+    "time" : {
+      "start" : 1566121302898,
+      "stop" : 1566121313063,
+      "duration" : 10165
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "hasContent" : false,
+    "stepsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "932d92aafaa8d285",
+      "name" : "log",
+      "source" : "932d92aafaa8d285.txt",
+      "type" : "text/plain",
+      "size" : 72
+    } ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_ta"
+  }, {
+    "name" : "subSuite",
+    "value" : "Testta"
+  }, {
+    "name" : "host",
+    "value" : "Caizhanyang"
+  }, {
+    "name" : "thread",
+    "value" : "15748-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_ta"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "ma",
+    "value" : "'0.00.0'"
+  }, {
+    "name" : "mi",
+    "value" : "'  '"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "5a08d81288bab038",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566120757515,
+        "stop" : 1566120792635,
+        "duration" : 35120
+      }
+    }, {
+      "uid" : "60b365eac44528d1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566120227361,
+        "stop" : 1566120255816,
+        "duration" : 28455
+      }
+    }, {
+      "uid" : "49470cc25f2cfd0b",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1566119787447,
+        "stop" : 1566119797119,
+        "duration" : 9672
+      }
+    }, {
+      "uid" : "2c6c3b51ec0470c0",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1566119649937,
+        "stop" : 1566119656811,
+        "duration" : 6874
+      }
+    }, {
+      "uid" : "9b9795bb3d5177ca",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1566119577909,
+        "stop" : 1566119578444,
+        "duration" : 535
+      }
+    }, {
+      "uid" : "3fe859e79682edd9",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1566119468683,
+        "stop" : 1566119469225,
+        "duration" : 542
+      }
+    }, {
+      "uid" : "2282fdd174984402",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1566118140886,
+        "stop" : 1566118149838,
+        "duration" : 8952
+      }
+    }, {
+      "uid" : "b28c8d7d55f2cc94",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1566117534743,
+        "stop" : 1566117543099,
+        "duration" : 8356
+      }
+    }, {
+      "uid" : "9f7febc80df0aa6a",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1566117371151,
+        "stop" : 1566117379509,
+        "duration" : 8358
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "48ac5150365fb410.json",
+  "parameterValues" : [ "'0.00.0'", "'  '" ]
+}

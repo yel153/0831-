@@ -1,0 +1,86 @@
+{
+  "uid" : "d037836d3322de47",
+  "name" : "test_4",
+  "fullName" : "test_allure#test_4",
+  "historyId" : "a069be209cd5870321eb818addbaf83c",
+  "time" : {
+    "start" : 1566183684330,
+    "stop" : 1566183684330,
+    "duration" : 0
+  },
+  "description" : "\n    这是对函数的参数，返回值的一个注释\n\n    ",
+  "descriptionHtml" : "<pre><code>这是对函数的参数，返回值的一个注释\n</code></pre>\n",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 'good' in 'hello world'",
+  "statusTrace" : "@allure.feature('模块二')\n    @allure.story('这厮一个很niu的测试用例')\n    def test_4():\n        \"\"\"\n        这是对函数的参数，返回值的一个注释\n    \n        \"\"\"\n        # 测试用例的描述是是通过注释获取到的\n>       assert \"good\" in \"hello world\"\nE       AssertionError: assert 'good' in 'hello world'\n\ntest_allure.py:48: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "这厮一个很niu的测试用例"
+  }, {
+    "name" : "feature",
+    "value" : "模块二"
+  }, {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_allure"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "Caizhanyang"
+  }, {
+    "name" : "thread",
+    "value" : "17720-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_allure"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7a1e9111d643b01a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 'good' in 'hello world'",
+      "time" : {
+        "start" : 1566181558823,
+        "stop" : 1566181558824,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "84bf80f28c02c482",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 'good' in 'hello world'",
+      "time" : {
+        "start" : 1566179278781,
+        "stop" : 1566179278781,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "d037836d3322de47.json",
+  "parameterValues" : [ ]
+}

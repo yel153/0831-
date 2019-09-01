@@ -1,0 +1,36 @@
+---
+# 头像的xpach
+touxiang: //android.widget.Button[@content-desc="帐户及设置"]
+#touxiang: (By.XPATH,'//android.widget.Button[@content-desc="帐户及设置"]')
+
+# 账户及设置
+seting: com.tencent.mobileqq:id/settings
+
+# 账号管理id
+zhanghao: com.tencent.mobileqq:id/account_switch
+
+#退出当前账号
+tuichu: com.tencent.mobileqq:id/logoutBtn
+
+# 确认
+queren: com.tencent.mobileqq:id/dialogRightBtn
+
+# 取消
+quxiao: com.tencent.mobileqq:id/dialogLeftBtn
+
+# 断言 判断是否退出 accessibility id（特殊id）
+newuser: 新用户注册
+
+# 输入用户名
+inputusr: 请输入QQ号码或手机或邮箱
+
+# 输入密码
+inputpwd: com.tencent.mobileqq:id/password
+
+# 登陆按钮
+loginbtn: com.tencent.mobileqq:id/login
+
+# 登陆成功
+mesg: com.tencent.mobileqq:id/ivTitleName
+
+

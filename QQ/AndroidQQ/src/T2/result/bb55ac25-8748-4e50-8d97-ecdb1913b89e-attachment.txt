@@ -1,0 +1,1 @@
+[32mINFO    [0m test_ta.py:test_ta.py:24 账号是:484083158,密码是:yuerw

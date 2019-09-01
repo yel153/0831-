@@ -1,0 +1,22 @@
+{
+  "debb69768f2f715cfcfa904ea07c89c1" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "21f95ff364c5f434",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 5050 == 5051",
+      "time" : {
+        "start" : 1565577363777,
+        "stop" : 1565577363778,
+        "duration" : 1
+      }
+    } ]
+  }
+}

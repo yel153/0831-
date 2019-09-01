@@ -1,0 +1,124 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "children" : [ {
+        "name" : "test_login[484083158-0.00.0]",
+        "uid" : "e7e33e9367d9b9d5",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1566121464136,
+          "stop" : 1566121469411,
+          "duration" : 5275
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'0.00.0'", "'484083158'" ]
+      }, {
+        "name" : "test_login_sy",
+        "uid" : "ece27bd28b464911",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1566177669941,
+          "stop" : 1566177689400,
+          "duration" : 19459
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_sy_nr",
+        "uid" : "75cf9b6b837c028",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1566177689509,
+          "stop" : 1566177701500,
+          "duration" : 11991
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a823ebd65a5f17ad39e628108c6e522"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert 2 == 3",
+      "children" : [ {
+        "name" : "test_3",
+        "uid" : "30ec1b71765def20",
+        "parentUid" : "94f84a64f476d0268e3f313c66a85755",
+        "status" : "failed",
+        "time" : {
+          "start" : 1566183684271,
+          "stop" : 1566183684272,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "94f84a64f476d0268e3f313c66a85755"
+    }, {
+      "name" : "AssertionError: assert 'good' in 'hello world'",
+      "children" : [ {
+        "name" : "test_4",
+        "uid" : "d037836d3322de47",
+        "parentUid" : "771c7c1f50e31009bd97fc132efa9cec",
+        "status" : "failed",
+        "time" : {
+          "start" : 1566183684330,
+          "stop" : 1566183684330,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "771c7c1f50e31009bd97fc132efa9cec"
+    }, {
+      "name" : "AssertionError: assert 1 == 2",
+      "children" : [ {
+        "name" : "test_5",
+        "uid" : "6fd53f5b1300a47a",
+        "parentUid" : "d89f5ad50f342bab320c0753c9baac45",
+        "status" : "failed",
+        "time" : {
+          "start" : 1566183684337,
+          "stop" : 1566183684338,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d89f5ad50f342bab320c0753c9baac45"
+    }, {
+      "name" : "AssertionError: assert 3 == 2",
+      "children" : [ {
+        "name" : "test_7",
+        "uid" : "191defc9ecdeba26",
+        "parentUid" : "7b84e6cd941b4c871982c9f8ae42f985",
+        "status" : "failed",
+        "time" : {
+          "start" : 1566183684349,
+          "stop" : 1566183684349,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7b84e6cd941b4c871982c9f8ae42f985"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

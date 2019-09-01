@@ -1,0 +1,351 @@
+{
+  "4fc9279b134a7c2269688c3c5196245c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c0b900f03ad61220",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566121321818,
+        "stop" : 1566121348670,
+        "duration" : 26852
+      }
+    } ]
+  },
+  "c84ef203e69b6c136489ce79d1c4c801" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "763ddf69091e2dcf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566183684362,
+        "stop" : 1566183684363,
+        "duration" : 1
+      }
+    } ]
+  },
+  "08f048e379adc175af2341bb6ba47079" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c8ed7cc061096106",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566183684345,
+        "stop" : 1566183684346,
+        "duration" : 1
+      }
+    } ]
+  },
+  "d4b5f2950c45b32ce9090724aa69dd36" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "48ac5150365fb410",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566121375166,
+        "stop" : 1566121408638,
+        "duration" : 33472
+      }
+    } ]
+  },
+  "a1e5998bdbe4e6849b97b15b7ff368fe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ece27bd28b464911",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1566177669941,
+        "stop" : 1566177689400,
+        "duration" : 19459
+      }
+    } ]
+  },
+  "1b18929c4f921dc4c3f7dd631be9b5c2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5fa8ab7f7dfff7b2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566121348678,
+        "stop" : 1566121375159,
+        "duration" : 26481
+      }
+    } ]
+  },
+  "e2bb9a8da6ecbf22e3922a781a6df39c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f7ff05b7f5cc6e12",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566121313074,
+        "stop" : 1566121321814,
+        "duration" : 8740
+      }
+    } ]
+  },
+  "78896add176659874330aec36feafec9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "84556a4c1fcf5150",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566183684264,
+        "stop" : 1566183684264,
+        "duration" : 0
+      }
+    } ]
+  },
+  "04dd486f16b4e8493a41451fe0c8d245" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "191defc9ecdeba26",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 3 == 2",
+      "time" : {
+        "start" : 1566183684349,
+        "stop" : 1566183684349,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5043a39d1b61492a87b7b6c2740cd90d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8f065a6a628ec968",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566121408646,
+        "stop" : 1566121429637,
+        "duration" : 20991
+      }
+    } ]
+  },
+  "5a4c141bb3e525c0a2cea44adfd91a33" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e7e33e9367d9b9d5",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1566121464136,
+        "stop" : 1566121469411,
+        "duration" : 5275
+      }
+    } ]
+  },
+  "5afd0dda8524db6b29be91008b13a69f" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "30ec1b71765def20",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 2 == 3",
+      "time" : {
+        "start" : 1566183684271,
+        "stop" : 1566183684272,
+        "duration" : 1
+      }
+    } ]
+  },
+  "39e92e05351e3f41aa2d8f617715a301" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8ab2d63ff1fb4cd9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566183684359,
+        "stop" : 1566183684359,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7d93e9a00464d2cf3b97ce0a15fe7188" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6fd53f5b1300a47a",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 1 == 2",
+      "time" : {
+        "start" : 1566183684337,
+        "stop" : 1566183684338,
+        "duration" : 1
+      }
+    } ]
+  },
+  "be748de7d53d41b1e1c70532012bb0ad" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a82dc1c4f25c1549",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566183684268,
+        "stop" : 1566183684268,
+        "duration" : 0
+      }
+    } ]
+  },
+  "a069be209cd5870321eb818addbaf83c" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d037836d3322de47",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 'good' in 'hello world'",
+      "time" : {
+        "start" : 1566183684330,
+        "stop" : 1566183684330,
+        "duration" : 0
+      }
+    } ]
+  },
+  "0daad69185b9035dbf822e59ab184a6e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "75cf9b6b837c028",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1566177689509,
+        "stop" : 1566177701500,
+        "duration" : 11991
+      }
+    } ]
+  },
+  "463ec6080ede8492eddc9cba7a1fdff2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7fefcabbd70ced7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566121429643,
+        "stop" : 1566121464130,
+        "duration" : 34487
+      }
+    } ]
+  }
+}

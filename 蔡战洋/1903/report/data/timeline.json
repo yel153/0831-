@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Caizhanyang",
+    "children" : [ {
+      "name" : "11560-MainThread",
+      "children" : [ {
+        "name" : "test_0",
+        "uid" : "21f95ff364c5f434",
+        "parentUid" : "04f71a7b3731510284e5a67630b1c06a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1565577363777,
+          "stop" : 1565577363778,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "04f71a7b3731510284e5a67630b1c06a"
+    } ],
+    "uid" : "3bb556bc1e276a663dc1f7e6643f81db"
+  } ]
+}

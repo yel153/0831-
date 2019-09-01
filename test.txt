@@ -1,4 +1,0 @@
-hello world
-print oop aop 
-who is it 
-iam darcy
